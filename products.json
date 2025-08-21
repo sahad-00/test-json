@@ -1,0 +1,72 @@
+[
+  {
+    "brand": "CURAPOD by litemed",
+    "product_name": "Adaptive Pain Management",
+    "price": 8999,
+    "category": "Healthtech and Wellness",
+    "description": "This device uses advanced technology to provide adaptive pain relief, targeting specific areas of discomfort for personalized therapy."
+  },
+  {
+    "brand": "AquaSmart",
+    "product_name": "EcoFlow Water Geyser",
+    "price": 4999,
+    "category": "Home Appliances",
+    "description": "An energy-efficient water geyser with smart temperature control and fast heating technology for low power consumption."
+  },
+  {
+    "brand": "FitTrack",
+    "product_name": "Smart Fitness Band X2",
+    "price": 2999,
+    "category": "Wearables",
+    "description": "Tracks heart rate, oxygen levels, sleep cycles, and offers AI-based fitness recommendations."
+  },
+  {
+    "brand": "SoundNest",
+    "product_name": "Wireless Home Theater 5.1",
+    "price": 15999,
+    "category": "Entertainment",
+    "description": "A sleek wireless home theater system with immersive surround sound and AI-optimized audio profiles."
+  },
+  {
+    "brand": "GlowSkin",
+    "product_name": "AI Skin Analyzer Mirror",
+    "price": 7999,
+    "category": "Beauty & Personal Care",
+    "description": "A smart mirror that scans skin conditions, recommends skincare routines, and tracks progress over time."
+  },
+  {
+    "brand": "EcoRide",
+    "product_name": "Electric Commuter Bike",
+    "price": 24999,
+    "category": "Mobility",
+    "description": "Lightweight electric bike with smart battery management system and app connectivity for tracking rides."
+  },
+  {
+    "brand": "ChefEase",
+    "product_name": "Smart Cooking Assistant",
+    "price": 10999,
+    "category": "Kitchen Appliances",
+    "description": "An AI-powered cooking device that suggests recipes, adjusts cooking time, and automates meal prep."
+  },
+  {
+    "brand": "PureBreathe",
+    "product_name": "HEPA Smart Air Purifier",
+    "price": 6999,
+    "category": "Home Appliances",
+    "description": "Removes 99.97% of allergens with smart sensors that auto-adjust based on air quality levels."
+  },
+  {
+    "brand": "SleepWell",
+    "product_name": "AI Smart Mattress",
+    "price": 18999,
+    "category": "Lifestyle",
+    "description": "A mattress with built-in sensors to track sleep patterns and auto-adjust firmness for optimal comfort."
+  },
+  {
+    "brand": "EduBot",
+    "product_name": "Interactive Learning Robot",
+    "price": 12999,
+    "category": "EdTech",
+    "description": "An AI-powered robot that teaches kids math, science, and languages through interactive games and activities."
+  }
+]
